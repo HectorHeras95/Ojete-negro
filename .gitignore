@@ -1,2 +1,4 @@
 
 *.ini
+KG_Project/Config/DefaultEngine.ini
+*.ini
